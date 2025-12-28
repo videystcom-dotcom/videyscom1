@@ -11,7 +11,7 @@ function joinWhatsAppGroup() {
 }
 
 function openFacebookPage() {
-    window.open("https://www.facebook.com/share/1BiRHhGZ1a/");
+    window.open("https://www.facebook.com/amel.hamzi.56");
 }
 /* REDIRECT */
 const video = document.getElementById("video");
@@ -34,3 +34,4 @@ if (videoOverlay) {
         this.remove(); // setelah klik pertama, video bisa dikontrol normal
     });
 }
+
